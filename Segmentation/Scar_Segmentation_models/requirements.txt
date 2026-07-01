@@ -1,0 +1,12 @@
+
+# Exact versions for UxLSTM compatibility
+torch==2.5.1
+torchvision==0.20.1  # Matches torch 2.5.1
+torchaudio==2.5.1
+nnunetv2==2.3.1  # Compatible version
+SimpleITK==2.2.1
+batchgenerators==0.25
+dynamic-network-architectures
+acvl-utils==0.2.5
+tqdm==4.65.0
+numpy==1.24.3
