@@ -1,0 +1,3 @@
+[submodule "nnssl"]
+	path = nnssl
+	url = https://github.com/RespectKnowledge/nnssl.git
