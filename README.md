@@ -1,7 +1,7 @@
 # CASTLE-FM: Towards a Multimodal Cardiac Foundation Model for Generalizable Cardiovascular Image Analysis
 
 <p align="center">
-<img src="Overall_diagram.png" width="850">
+<img src="main_figure.png" width="850">
 </p>
 
 ## Overview
